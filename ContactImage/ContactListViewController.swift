@@ -2,7 +2,7 @@
 //  ContactListViewController.swift
 //  ContactImage
 //
-//  Created by Assem Mukhamadi on 28.11.2020.
+//  Created by Assem Mukhamadi 
 //
 
 import UIKit
